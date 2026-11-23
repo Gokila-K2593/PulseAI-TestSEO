@@ -27,9 +27,13 @@ export default function RootLayout({
               <span>PulseAI Labs</span>
             </Link>
 
-            <nav className="flex items-center gap-6 text-sm font-medium text-slate-600">
+            <nav className="hidden md:flex items-center gap-5 text-xs font-semibold text-slate-600">
               <Link href="/" className="hover:text-indigo-600 transition-colors">Home</Link>
               <Link href="/services" className="hover:text-indigo-600 transition-colors">Services</Link>
+              <Link href="/case-studies" className="hover:text-indigo-600 transition-colors">Case Studies</Link>
+              <Link href="/pricing" className="hover:text-indigo-600 transition-colors">Pricing</Link>
+              <Link href="/blog" className="hover:text-indigo-600 transition-colors">Blog</Link>
+              <Link href="/careers" className="hover:text-indigo-600 transition-colors">Careers</Link>
               <Link href="/about" className="hover:text-indigo-600 transition-colors">About</Link>
               <Link href="/contact" className="hover:text-indigo-600 transition-colors">Contact</Link>
             </nav>
@@ -73,10 +77,15 @@ export default function RootLayout({
             </div>
 
             <div>
-              <div className="font-semibold text-white mb-2">Quick Links</div>
+              <div className="font-semibold text-white mb-2">Company</div>
               <ul className="space-y-1">
                 <li><Link href="/services" className="hover:text-white transition-colors">Services</Link></li>
+                <li><Link href="/case-studies" className="hover:text-white transition-colors">Case Studies</Link></li>
+                <li><Link href="/pricing" className="hover:text-white transition-colors">Pricing</Link></li>
+                <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
+                <li><Link href="/careers" className="hover:text-white transition-colors">Careers</Link></li>
                 <li><Link href="/about" className="hover:text-white transition-colors">About Us</Link></li>
+                <li><Link href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</Link></li>
                 <li><Link href="/contact" className="hover:text-white transition-colors">Contact Support</Link></li>
               </ul>
             </div>
