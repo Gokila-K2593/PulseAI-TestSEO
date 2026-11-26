@@ -1,6 +1,28 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-26T15:14:39.997Z",
-  "remediations": "Deploy all 8 approved remediations across Technical, Content, AEO, and GEO to https://pulse-ai-test-seo.vercel.app/."
+  "appliedAt": "2026-11-26T16:11:17.563Z",
+  "batchId": "batch-mwxr24l7",
+  "approvedRules": [
+    {
+      "id": "rule-geo-organization-pulseai-3wq1",
+      "title": "Deploy Schema.org Organization Knowledge Graph Entity",
+      "category": "GEO"
+    },
+    {
+      "id": "rule-geo-service-pulseai-3wq1",
+      "title": "Deploy Service & SoftwareApplication Schema for Feature Extraction",
+      "category": "GEO"
+    },
+    {
+      "id": "rule-geo-citations-pulseai-3wq1",
+      "title": "Remediate Generative AI Search Absence (0 Source Citations in Gemini / Perplexity)",
+      "category": "GEO"
+    },
+    {
+      "id": "rule-geo-llmstxt-pulseai-3wq1",
+      "title": "Generate & Deploy /llms.txt AI Crawler Context File",
+      "category": "GEO"
+    }
+  ]
 }
