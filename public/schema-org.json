@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "PulseAI",
+      "url": "https://pulse-ai-test-seo.vercel.app",
+      "description": "PulseAI business operations, products, and services."
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What services does PulseAI offer in Global?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PulseAI specializes in autonomous AI agents, enterprise LLM engineering, and full-stack software solutions."
+          }
+        }
+      ]
+    }
+  ]
+}
