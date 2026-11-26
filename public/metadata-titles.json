@@ -1,0 +1,19 @@
+{
+  "domain": "https://pulse-ai-test-seo.vercel.app",
+  "strategy": "Unique Title Tags",
+  "appliedAt": "2026-11-26T17:44:25.102Z",
+  "routes": [
+    {
+      "path": "/",
+      "title": "PulseAI — AI Engineering"
+    },
+    {
+      "path": "/services",
+      "title": "Services | PulseAI"
+    },
+    {
+      "path": "/about",
+      "title": "About | PulseAI"
+    }
+  ]
+}

@@ -1,28 +1,38 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-26T17:16:42.259Z",
-  "batchId": "batch-mwxte8wj",
+  "appliedAt": "2026-11-26T17:44:25.102Z",
+  "batchId": "batch-mwxudvym",
   "approvedRules": [
     {
-      "id": "rule-geo-organization-pulseai-3wq1",
-      "title": "Deploy Schema.org Organization Knowledge Graph Entity",
-      "category": "GEO"
+      "id": "rule-titles-pulseai-3wq1-p7",
+      "title": "careers Fix",
+      "category": "TECHNICAL"
     },
     {
-      "id": "rule-geo-service-pulseai-3wq1",
-      "title": "Deploy Service & SoftwareApplication Schema for Feature Extraction",
-      "category": "GEO"
+      "id": "rule-titles-pulseai-3wq1-p8",
+      "title": "privacy-policy Fix",
+      "category": "TECHNICAL"
     },
     {
-      "id": "rule-geo-citations-pulseai-3wq1",
-      "title": "Remediate Generative AI Search Absence (0 Source Citations in Gemini / Perplexity)",
-      "category": "GEO"
+      "id": "rule-titles-pulseai-3wq1-p3",
+      "title": "contact Fix",
+      "category": "TECHNICAL"
     },
     {
-      "id": "rule-geo-llmstxt-pulseai-3wq1",
-      "title": "Generate & Deploy /llms.txt AI Crawler Context File",
-      "category": "GEO"
+      "id": "rule-titles-pulseai-3wq1-p2",
+      "title": "about Fix",
+      "category": "TECHNICAL"
+    },
+    {
+      "id": "rule-titles-pulseai-3wq1-p1",
+      "title": "services Fix",
+      "category": "TECHNICAL"
+    },
+    {
+      "id": "rule-titles-pulseai-3wq1-p0",
+      "title": "pulse-ai-test-seo.vercel.app Fix",
+      "category": "TECHNICAL"
     }
   ]
 }
