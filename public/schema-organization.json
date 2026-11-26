@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://pulse-ai-test-seo.vercel.app#org",
+  "name": "PulseAI",
+  "url": "https://pulse-ai-test-seo.vercel.app",
+  "description": "PulseAI business operations, products, and services.",
+  "areaServed": "Global",
+  "knowsAbout": [
+    "Software & Technology",
+    "Autonomous AI",
+    "LLM Systems"
+  ]
+}

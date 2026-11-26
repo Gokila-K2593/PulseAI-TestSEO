@@ -1,7 +1,6 @@
 # PulseAI
 > Software & Technology
-
 - Website: https://pulse-ai-test-seo.vercel.app
 - Location: Global
-- Core Services: Autonomous AI Engineering, Production-Grade AI Agents, LLM Systems
 - Contact: pulseai@gmail.com
+- Verified: 2026-11-26T16:11:17.563Z
