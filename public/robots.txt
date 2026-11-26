@@ -1,0 +1,6 @@
+# Robots.txt for PulseAI
+User-agent: *
+Allow: /
+
+# XML Sitemaps
+Sitemap: https://pulse-ai-test-seo.vercel.app/sitemap.xml
