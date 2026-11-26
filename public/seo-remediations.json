@@ -1,28 +1,28 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-26T18:18:56.124Z",
-  "batchId": "batch-mwxvm9z0",
+  "appliedAt": "2026-11-26T18:23:55.664Z",
+  "batchId": "batch-mwxvsp3k",
   "approvedRules": [
     {
-      "id": "rule-aeo-commercial-pulseai-3wq1",
-      "title": "Inject Commercial FAQPage Schema for SERP Answer Boxes (\"PulseAI review pricing features\")",
-      "category": "AEO"
+      "id": "rule-titles-pulseai-3wq1",
+      "title": "Resolve Duplicate <title> Tags (9 Routes Affected)",
+      "category": "TECHNICAL"
     },
     {
-      "id": "rule-aeo-pricing-pulseai-3wq1",
-      "title": "Deploy Pricing FAQ & Service Cost Benchmark Schema",
-      "category": "AEO"
+      "id": "rule-content-thin-pulseai-3wq1",
+      "title": "Expand Thin Body Copy on 9 Pages (< 300 words)",
+      "category": "CONTENT"
     },
     {
-      "id": "rule-aeo-comparison-pulseai-3wq1",
-      "title": "Inject Differentiation & Competitive Comparison Q&A Schema",
-      "category": "AEO"
+      "id": "rule-content-quality-pulseai-3wq1",
+      "title": "Enrich Content Quality & Keyword Entity Depth on Scanned Pages",
+      "category": "CONTENT"
     },
     {
-      "id": "rule-aeo-speakable-pulseai-3wq1",
-      "title": "Deploy SpeakableSpecification for Google Assistant & Voice Search",
-      "category": "AEO"
+      "id": "rule-heading-hierarchy-pulseai-3wq1",
+      "title": "Remediate Heading Hierarchy & Single-Intent H1 Structure",
+      "category": "CONTENT"
     }
   ]
 }
