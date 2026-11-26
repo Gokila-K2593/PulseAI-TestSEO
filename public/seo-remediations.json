@@ -1,43 +1,28 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-26T17:53:13.236Z",
-  "batchId": "batch-mwxup7h0",
+  "appliedAt": "2026-11-26T18:18:56.124Z",
+  "batchId": "batch-mwxvm9z0",
   "approvedRules": [
     {
-      "id": "rule-titles-pulseai-3wq1-p6",
-      "title": "blog Fix",
-      "category": "TECHNICAL"
+      "id": "rule-aeo-commercial-pulseai-3wq1",
+      "title": "Inject Commercial FAQPage Schema for SERP Answer Boxes (\"PulseAI review pricing features\")",
+      "category": "AEO"
     },
     {
-      "id": "rule-titles-pulseai-3wq1-p5",
-      "title": "pricing Fix",
-      "category": "TECHNICAL"
+      "id": "rule-aeo-pricing-pulseai-3wq1",
+      "title": "Deploy Pricing FAQ & Service Cost Benchmark Schema",
+      "category": "AEO"
     },
     {
-      "id": "rule-titles-pulseai-3wq1-p4",
-      "title": "case-studies Fix",
-      "category": "TECHNICAL"
+      "id": "rule-aeo-comparison-pulseai-3wq1",
+      "title": "Inject Differentiation & Competitive Comparison Q&A Schema",
+      "category": "AEO"
     },
     {
-      "id": "rule-titles-pulseai-3wq1-p3",
-      "title": "contact Fix",
-      "category": "TECHNICAL"
-    },
-    {
-      "id": "rule-titles-pulseai-3wq1-p2",
-      "title": "about Fix",
-      "category": "TECHNICAL"
-    },
-    {
-      "id": "rule-titles-pulseai-3wq1-p1",
-      "title": "services Fix",
-      "category": "TECHNICAL"
-    },
-    {
-      "id": "rule-titles-pulseai-3wq1-p0",
-      "title": "pulse-ai-test-seo.vercel.app Fix",
-      "category": "TECHNICAL"
+      "id": "rule-aeo-speakable-pulseai-3wq1",
+      "title": "Deploy SpeakableSpecification for Google Assistant & Voice Search",
+      "category": "AEO"
     }
   ]
 }
