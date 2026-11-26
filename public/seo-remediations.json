@@ -1,17 +1,22 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-26T17:44:25.102Z",
-  "batchId": "batch-mwxudvym",
+  "appliedAt": "2026-11-26T17:53:13.236Z",
+  "batchId": "batch-mwxup7h0",
   "approvedRules": [
     {
-      "id": "rule-titles-pulseai-3wq1-p7",
-      "title": "careers Fix",
+      "id": "rule-titles-pulseai-3wq1-p6",
+      "title": "blog Fix",
       "category": "TECHNICAL"
     },
     {
-      "id": "rule-titles-pulseai-3wq1-p8",
-      "title": "privacy-policy Fix",
+      "id": "rule-titles-pulseai-3wq1-p5",
+      "title": "pricing Fix",
+      "category": "TECHNICAL"
+    },
+    {
+      "id": "rule-titles-pulseai-3wq1-p4",
+      "title": "case-studies Fix",
       "category": "TECHNICAL"
     },
     {
