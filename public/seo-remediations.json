@@ -1,28 +1,28 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-26T18:23:55.664Z",
-  "batchId": "batch-mwxvsp3k",
+  "appliedAt": "2026-11-27T00:13:22.450Z",
+  "batchId": "batch-mwy8a36a",
   "approvedRules": [
     {
-      "id": "rule-titles-pulseai-3wq1",
-      "title": "Resolve Duplicate <title> Tags (9 Routes Affected)",
+      "id": "rule-cwv-cache-pulseai-3wq1",
+      "title": "[Daily Growth] Edge Cache-Control & Brotli Directives for Sub-Second TTFB",
       "category": "TECHNICAL"
     },
     {
-      "id": "rule-content-thin-pulseai-3wq1",
-      "title": "Expand Thin Body Copy on 9 Pages (< 300 words)",
+      "id": "rule-content-entities-pulseai-3wq1",
+      "title": "[Daily Growth] Inject Semantic Entity Mesh & Keyword Depth from Live Google Suggest",
       "category": "CONTENT"
     },
     {
-      "id": "rule-content-quality-pulseai-3wq1",
-      "title": "Enrich Content Quality & Keyword Entity Depth on Scanned Pages",
-      "category": "CONTENT"
+      "id": "rule-aeo-fresh-paa-pulseai-3wq1",
+      "title": "[Daily Growth] Deploy 2026 Commercial Comparison Q&A Schema to Displace Competitors",
+      "category": "AEO"
     },
     {
-      "id": "rule-heading-hierarchy-pulseai-3wq1",
-      "title": "Remediate Heading Hierarchy & Single-Intent H1 Structure",
-      "category": "CONTENT"
+      "id": "rule-geo-reddit-intent-pulseai-3wq1",
+      "title": "[Daily Growth] Capture Reddit Radar High-Intent Buyer Discussions for Generative Grounding",
+      "category": "GEO"
     }
   ]
 }
