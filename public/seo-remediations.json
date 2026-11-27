@@ -1,27 +1,27 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-27T00:26:08.881Z",
-  "batchId": "batch-mwy8qik1",
+  "appliedAt": "2026-11-27T00:48:37.215Z",
+  "batchId": "batch-mwy9jexr",
   "approvedRules": [
     {
-      "id": "rule-day2-competitor-pulseai-3wq1-pa0v",
-      "title": "[Day 2 Cron] Competitor Search Displacement Defense (Ideas2IT / TechBulls)",
+      "id": "rule-daily-competitor-pulseai-3wq1-fu1c",
+      "title": "[Daily Sweep 06:15] Competitor Search Displacement Defense (Ideas2IT / TechBulls)",
       "category": "GEO"
     },
     {
-      "id": "rule-day2-reddit-lead-pulseai-3wq1-pa0v",
-      "title": "[Day 2 Cron] High-Intent Reddit Radar Lead Capture (r/r/startups)",
+      "id": "rule-daily-reddit-lead-pulseai-3wq1-fu1c",
+      "title": "[Daily Sweep 06:15] High-Intent Reddit Radar Lead Capture (r/r/startups)",
       "category": "CONTENT"
     },
     {
-      "id": "rule-day2-speed-cache-pulseai-3wq1-pa0v",
-      "title": "[Day 2 Cron] Edge Cache TTL & Sub-Second LCP Performance Optimization",
+      "id": "rule-daily-speed-cache-pulseai-3wq1-fu1c",
+      "title": "[Daily Sweep 06:15] Edge Cache TTL & Sub-Second LCP Performance Optimization",
       "category": "TECHNICAL"
     },
     {
-      "id": "rule-day2-paa-expand-pulseai-3wq1-pa0v",
-      "title": "[Day 2 Cron] Trending Google Suggest Zero-Click Answer Box Expansion",
+      "id": "rule-daily-paa-expand-pulseai-3wq1-fu1c",
+      "title": "[Daily Sweep 06:15] Trending Google Suggest Zero-Click Answer Box Expansion",
       "category": "AEO"
     }
   ]
