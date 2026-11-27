@@ -1,28 +1,13 @@
 {
   "generator": "APEX Enterprise SEO & GEO Suite",
   "domain": "https://pulse-ai-test-seo.vercel.app/",
-  "appliedAt": "2026-11-27T00:48:37.215Z",
-  "batchId": "batch-mwy9jexr",
+  "appliedAt": "2026-11-27T07:02:07.865Z",
+  "batchId": "batch-mwymvr3t",
   "approvedRules": [
     {
-      "id": "rule-daily-competitor-pulseai-3wq1-fu1c",
-      "title": "[Daily Sweep 06:15] Competitor Search Displacement Defense (Ideas2IT / TechBulls)",
-      "category": "GEO"
-    },
-    {
-      "id": "rule-daily-reddit-lead-pulseai-3wq1-fu1c",
-      "title": "[Daily Sweep 06:15] High-Intent Reddit Radar Lead Capture (r/r/startups)",
-      "category": "CONTENT"
-    },
-    {
-      "id": "rule-daily-speed-cache-pulseai-3wq1-fu1c",
-      "title": "[Daily Sweep 06:15] Edge Cache TTL & Sub-Second LCP Performance Optimization",
+      "id": "rule-daily-speed-cache-pulseai-3wq1-ur8r",
+      "title": "[Daily Sweep 12:31] Edge Cache TTL & Sub-Second LCP Performance Optimization",
       "category": "TECHNICAL"
-    },
-    {
-      "id": "rule-daily-paa-expand-pulseai-3wq1-fu1c",
-      "title": "[Daily Sweep 06:15] Trending Google Suggest Zero-Click Answer Box Expansion",
-      "category": "AEO"
     }
   ]
 }
